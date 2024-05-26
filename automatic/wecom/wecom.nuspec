@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>wecom</id>
-    <version>3.0.36.2004</version>
+    <version>4.1.22.6009</version>
     <packageSourceUrl>https://github.com/ygxxii/chocolateypackages</packageSourceUrl>
     <owners>ygxxii</owners>
     <title>WeCom</title>
     <authors>Tencent</authors>
     <projectUrl>https://work.weixin.qq.com/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/ygxxii/chocolateypackages@master/icons/wecom.png</iconUrl>
-    <copyright>Copyright © 1998 - 2020 Tencent. All Rights Reserved.</copyright>
+    <copyright>Copyright © 1998 - 2024 Tencent. All Rights Reserved.</copyright>
     <licenseUrl>https://work.weixin.qq.com/nl/service_agreement</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://work.weixin.qq.com/help</docsUrl>
